@@ -19,7 +19,10 @@ public class PrimeSum {
         }
         System.out.println("100以内的质数的和为："+sum);
     }
-
+    
+    /**
+      *判断是否为质数
+      */
     public static boolean isPrime(int x,boolean bool){
         //质数：一个大于1的自然数，除了1和它自身外，不能被其他自然数整除的数叫做质数
         for (int i=2;i<x;i++){
