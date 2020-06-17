@@ -11,5 +11,6 @@ public class HomeWork {
         //打印99乘法表
         System.out.println("等腰三角形");
         //打印等腰三角形
+        System.out.println("pull测试");
     }
 }
