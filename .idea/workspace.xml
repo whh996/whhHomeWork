@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0232b8fd-a285-4f5f-8216-96696468b0d3" name="Default Changelist" comment="2020.6.17问海红作业提交&#10;1.Triangle：等腰三角形打印&#10;2.PrimeSum：100以内质数求和">
+    <list default="true" id="0232b8fd-a285-4f5f-8216-96696468b0d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day04/ArrayOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day04/GuessChar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +47,33 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Application.PrimeSum">
+  <component name="RunManager" selected="Application.ArrayOutput">
+    <configuration name="ArrayOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.ArrayOutput" />
+      <module name="whhHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04.GuessChar" />
+      <module name="whhHomeWork" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PrimeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03.PrimeSum" />
       <module name="whhHomeWork" />
@@ -74,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayOutput" />
+        <item itemvalue="Application.GuessChar" />
         <item itemvalue="Application.PrimeSum" />
         <item itemvalue="Application.Triangle" />
       </list>
@@ -102,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1592354044681</updated>
       <workItem from="1592354047994" duration="2286000" />
-      <workItem from="1592379039536" duration="3886000" />
+      <workItem from="1592379039536" duration="4264000" />
+      <workItem from="1592489866978" duration="1566000" />
     </task>
     <task id="LOCAL-00001" summary="问海红作业第一次项目测试提交">
       <created>1592354862784</created>
@@ -118,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592390751336</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2020.6.17问海红作业提交&#10;1.Triangle：等腰三角形打印&#10;2.PrimeSum：100以内质数求和">
+      <created>1592390985352</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592390985352</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,41 +168,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="2020.6.17问海红作业提交&#10;1.Triangle：等腰三角形打印&#10;2.PrimeSum：100以内质数求和" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1592390875250">
+    <state x="385" y="0" key="CommitChangelistDialog2" timestamp="1592390984454">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592390875250" />
+    <state x="385" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592390984454" />
     <state x="549" y="156" key="FileChooserDialogImpl" timestamp="1592354677977">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="156" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592354677977" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1592390504940">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom" timestamp="1592491467881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592390504940" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1592390504940">
+    <state width="1493" height="238" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592491467881" />
+    <state width="1493" height="238" key="GridCell.Tab.0.center" timestamp="1592491467881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592390504940" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1592390504940">
+    <state width="1493" height="238" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592491467881" />
+    <state width="1493" height="238" key="GridCell.Tab.0.left" timestamp="1592491467881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592390504940" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1592390504940">
+    <state width="1493" height="238" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592491467881" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right" timestamp="1592491467881">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592390504940" />
+    <state width="1493" height="238" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592491467881" />
     <state x="272" y="57" key="SettingsEditor" timestamp="1592390973786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592390973786" />
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1592390793164">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1592391142938">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592390793164" />
-    <state x="464" y="214" key="git4idea.merge.GitPullDialog" timestamp="1592366551823">
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592391142938" />
+    <state x="464" y="214" key="git4idea.merge.GitPullDialog" timestamp="1592391342034">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="464" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1592366551823" />
+    <state x="464" y="214" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1592391342034" />
   </component>
 </project>
